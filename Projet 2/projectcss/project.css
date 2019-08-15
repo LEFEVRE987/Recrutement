@@ -1,0 +1,66 @@
+html
+{
+display: flex; 
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(193, 196, 197);
+margin: 00px;
+
+background-image: url("image/background.jpeg");
+background-repeat: repeat;
+background-position: top right;
+}
+
+.cydra
+{
+    background-image: url("image/background.png");
+    height: 260px;
+    width: 1845px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.logo
+{
+    margin-top: -130px;
+    margin-left : -10px; 
+    display: flex;
+    justify-content: space-around;
+    text-align: center;  
+}
+
+.searchbar1
+{
+   width: 100px; 
+   margin-top: 50px;
+   margin-left: 830px;
+}
+
+.user
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 785px;
+    margin-top: -40px;
+    color: black;
+}
+
+.searchbar2
+{
+    width: 100px; 
+   margin-top: 3px;
+   margin-left: 830px;
+}
+
+.password
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 750px;
+    margin-top: -40px;
+    color: black;
+}
+
+.button
+{
+    margin-left: 860px;
+    margin-top: 30px;
+}
